@@ -15,7 +15,7 @@ provided shortly.
 - Use _anime_ and report any bugs.
 - Request features. If it could be useful to you, it could probably be useful to 
 someone else too.
-- Submit buxfixes or new features.  
+- Submit bug fixes or new features.
 
 #License
 All of _anime_'s code is released under the MIT license. 
