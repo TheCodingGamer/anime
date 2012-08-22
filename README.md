@@ -4,12 +4,13 @@ was designed to be better than any other animation library, and it's main
 concerns are speed, ease of use, flexibility, simplicity, and features.
 
 #Release Status
-The current version is 0.1.1 and is considered *unstable*. More features are on 
-the way, and bug testing needs to be done.
+The current version is 0.1.1 and is considered **unstable**. More features are
+on the way, and bug testing needs to be done.
 
 #Documentation
-The documentation of the library is still under construction, but will be 
-provided shortly.
+- [Quick Usage](https://github.com/thecodingotaku/anime/wiki/Quick-Usage)
+- [Documentation](https://github.com/thecodingotaku/anime/wiki/Documentation)
+
 
 #How you can help
 - Use _anime_ and report any bugs.
@@ -29,5 +30,5 @@ com*
 The example sprites of _Betty_ were created by _Radomir Dopieralski_ and 
 released under CC-BY-SA 3.0 and/or GPL 3.0 license(s). 
 
-*Homepage:*
+**Homepage:**
 http://opengameart.org/content/one-more-lpc-alternate-character
